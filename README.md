@@ -33,6 +33,7 @@ This project unredacts sensitive information like names from tsv file and calcul
 1. Assuming that the .tsv file is present in the public github repository link.
 2. Assuming that the dataset contains training, validation and testing data.
 3. Assuming th value of n-neighbors in KNN to be 20.
+4. If it dosn't work in VM, can you please try in your local machine.
  
 ##  Approach to Developing the code
 ---
